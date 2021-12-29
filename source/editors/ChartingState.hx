@@ -95,7 +95,13 @@ class ChartingState extends MusicBeatState
 		['Opponent Fade', "Smoothly sets the Opponent's transparency value.\nValue 1: Duration (0 = Instant)\nValue 2: Target transparency value"],
 		['HealthDrain', "Drains players health when opponent sings\nAt a specific time.\nValue 1: How much health to drain when opponent sings (0.5 recommended)\nValue 2: Lowest Health Possible From Drain (0.01 recommened)"],
 		['MoveArrow', "Change Note Position\nValue 1: Note (0-7)\nValue 2: x value, y value, rotation, opacity (0-1), duration"],
-		['Cheating Notes', "Put Nothing LOL"]
+		['Cheating Notes', "Put Nothing LOL"],
+		['NOMISS', "no miss or you die :)"],
+		['bob', "bob eye :))))"],
+		['Flicker', "idk i forget lol"],
+		['static V2', "Tiky :)))"],
+		['zad', ":("],
+		['Spin Notes', "Unfair =D"],
 
 	];
 
