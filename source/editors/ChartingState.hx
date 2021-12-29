@@ -101,7 +101,7 @@ class ChartingState extends MusicBeatState
 		['Flicker', "idk i forget lol"],
 		['static V2', "Tiky :)))"],
 		['zad', ":("],
-		['Spin Notes', "Unfair =D"],
+		['Spin Notes', "Unfair =D"]
 
 	];
 
