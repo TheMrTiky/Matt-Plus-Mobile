@@ -46,7 +46,18 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Android Port'],
+                        ['Vs Matt Plus'],
+			['Mr Tiky',		    'mrtiky',		    'Main Coder of The mod, sprite, songs, modchart and wiik 5-6 etc',	 'https://m.youtube.com/channel/UCfvw4vqGD-RqvXP1tkH-tFA',	'0xFFC30085'],
+			['Others Credits of mod'],
+			['Kay7',		    'kay7',		    'The tester of mod in mobile',	 'https://m.youtube.com/channel/UCT1w5Z3StJjiAQ7upxjVLYA',	'0xFFC30085'],
+			['Blue Crewmate',		    'blue',		    'The tester of mod in pc',	 '',	'0xFFC30085'],
+                        ['Special Credits'],
+			['Matt wiik 1-2',		    'matt1-2',		    'Original mod of matt wiik 1-2',	 'https://gamebanana.com/mods/44511',	'0xFFC30085'],
+			['Matt wiik 3',		    'matt3',		    'Original mod of matt wiik 3',	 'https://gamebanana.com/mods/293670',	'0xFFC30085'],
+			['Old Matt wiik 4',		    'matt4old',		    'Original mod of old matt wiik 4',	 'https://gamebanana.com/mods/316119',	'0xFFC30085'],
+			['New Matt wiik 4',		    'matt4new',		    'Original mod of new matt wiik 4',	 'https://gamebanana.com/mods/336021',	'0xFFC30085'],
+			['Matt wiik 100',		    'matt100',		    'Original mod of matt wiik 100',	 'https://gamebanana.com/mods/320085',	'0xFFC30085'],
+                        ['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
@@ -191,3 +202,16 @@ class CreditsState extends MusicBeatState
 		return creditsStuff[num].length <= 1;
 	}
 }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
