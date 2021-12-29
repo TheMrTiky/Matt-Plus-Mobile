@@ -4003,7 +4003,7 @@ class PlayState extends MusicBeatState
 							switch(weekName) //I know this is a lot of duplicated code, but it's easier readable and you can add weeks with different names than the achievement tag
 							{
 								case 'wiik1':
-									if(achievementName == 'week1_nomiss') unlock = true;
+									if(achievementName == 'wiik1_nomiss') unlock = true;
 								case 'week2':
 									if(achievementName == 'week2_nomiss') unlock = true;
 								case 'week3':
