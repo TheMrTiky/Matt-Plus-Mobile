@@ -370,7 +370,7 @@ class PlayState extends MusicBeatState
 		{
 			case 'arenasing': //Week 1
 				var bg:BGSprite = new BGSprite('arenasinh', -600, -200, 0.9, 0.9);
-				add(bg)
+				add(bg);
 
 				}
 
