@@ -368,9 +368,10 @@ class PlayState extends MusicBeatState
 
 		switch (curStage)
 		{
-			case 'arenasing': //Wiik 1
-				var bg:BGSprite = new BGSprite('arenasing', -600, -200, 0.9, 0.9);
-				add(bg);
+			case 'arenasing': //Week 1
+				var bg:BGSprite = new BGSprite('arenasinh', -600, -200, 0.9, 0.9);
+				add(bg)
+
 				}
 
 			case 'spooky': //Week 2
