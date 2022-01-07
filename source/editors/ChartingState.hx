@@ -97,8 +97,9 @@ class ChartingState extends MusicBeatState
                 ['TweenSpin', "Makes the Receptors move in a circular motion\nBOTH VALUES ARE REQUIRED FOR THE EFFECT\nValue 1: How long to tween for (in seconds)\nValue 2: How big of a tween (in degrees) (360 for one spin, 720 for 2 spins)"],
                 ['unfairness mechanic', "wah wah cry about it being hard\nits not hard ur just bad >:)"],
                 ['zad', "just like ron(rip)\nnow works more then 1 time (infinite) xd\n(instert this is a certified hood clasic)"],
-                ['HealthDrain', "Drains players health when opponent sings
-\nAt a specific time.\n\nValue 1: How much health to drain when opponent sings (0.5 recommended)\nValue 2: Lowest Health Possible From Drain (0.01 recommened)"],
+                ['HealthDrain', "Drains players health when opponent sings\nAt a specific time.\n\nValue 1: How much health to drain when opponent sings (0.5 recommended)\nValue 2: Lowest Health Possible From Drain (0.01 recommened)"],
+                ['FlipUI', "Rotates the screen 180 degrees
+"],
                 ['', ""]
 
 	];
