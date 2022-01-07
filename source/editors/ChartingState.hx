@@ -98,9 +98,8 @@ class ChartingState extends MusicBeatState
                 ['unfairness mechanic', "wah wah cry about it being hard\nits not hard ur just bad >:)"],
                 ['zad', "just like ron(rip)\nnow works more then 1 time (infinite) xd\n(instert this is a certified hood clasic)"],
                 ['HealthDrain', "Drains players health when opponent sings\nAt a specific time.\n\nValue 1: How much health to drain when opponent sings (0.5 recommended)\nValue 2: Lowest Health Possible From Drain (0.01 recommened)"],
-                ['FlipUI', "Rotates the screen 180 degrees
-"],
-                ['', ""]
+                ['FlipUI', "Rotates the screen 180 degrees"],
+                ['Voar', "voar"]
 
 	];
 
